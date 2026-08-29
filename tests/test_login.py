@@ -1,1 +1,2 @@
-tests/test_login.py
+def test_login():
+    print("Login test executed")
